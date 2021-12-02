@@ -18,7 +18,7 @@
   * Use any frameworks, libraries you feel comfortable with
 
 ## Emphasis
-* This exercise has time limit, but is estimated in 2 hours.
+* This exercise has no time limit.
 * Make sure your code is clean and is easy to understand. 
 
 
