@@ -9,18 +9,21 @@
 ## You are given a server side repository that contains the following
  * A basic NodeJS with express server
  * Two endpoints: 'getAllProducts', and 'addNewProduct'
- * A directory called 'data' that includes to JSON files. These files emulate the database
+ * A directory called 'data' that includes two JSON files. These files emulate the database
 
-## Server side
-  * Implement both endpoints
- 
-## Client side
-  * Add a client side that shows the products and that enables to add products
-  * Use any frameworks, libraries you feel comfortable with
+# You should do:
 
-## Emphasis
-* This exercise has no time limit.
-* Make sure your code is clean and is easy to understand. 
+	## Server side
+	  * Implement both endpoints
+	 
+	## Client side
+	  * Create a UI that shows the products
+	  * Create a UI for adding products
+	  * Use any frameworks, libraries you feel comfortable with
+
+	## Emphasis
+	* This exercise has no time limit.
+	* Make sure your code is clean and is easy to understand. 
 
 
 # Submit your answer by making a pull request
