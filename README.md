@@ -1,4 +1,5 @@
 # Welcome to Sagarmatha fullstak exercise
+ * For this exercise you will need NodeJS and NPM installed on you computer.
 
 ## Scenario
   We have a database of products and suppliers.
